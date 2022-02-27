@@ -20,3 +20,7 @@ For more information about the plans for our app and
 the design, please check out our prototype here:
 
 https://www.figma.com/file/h8iRDpo07dDzhu9E9ByeD9/MEal?node-id=0%3A1
+
+
+Username for app: boba313
+Password: mikeymybeloved
