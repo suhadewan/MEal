@@ -33,6 +33,14 @@ public class HomePageActivity extends AppCompatActivity {
             }
         });
 
+        calendar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(HomePageActivity.this, CalendarActivity.class);
+                startActivity(intent);
+            }
+        });
+
 
 
     }
