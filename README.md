@@ -10,7 +10,7 @@ and items in their kitchen into the app, and get
 recipes based on the things that they have. They
 should also be able to use the calendar feature to
 do weekly meal preps and the reward system that we
-plan to implement will help to motivate them to make
+plan to implement will help motivate them to make
 their meals. We plan to use this API: 
 https://serpapi.com/recipes-results 
 to search for the recipes based on the things that the
